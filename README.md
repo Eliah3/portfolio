@@ -1,4 +1,4 @@
-# Projects
+# Portfolio
 
 A collection of programming projects organized by how they were built. The split is intentional: it makes the difference between *what I can do myself* and *what I can do with AI assistance* transparent — both to me and to anyone reading.
 
